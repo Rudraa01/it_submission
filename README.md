@@ -146,4 +146,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Material-UI for the component library
 - Tailwind CSS for utility-first CSS
 - MongoDB for the database
-- Express.js for the backend framework 
+- Express.js for the backend framework
